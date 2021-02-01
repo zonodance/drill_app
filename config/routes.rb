@@ -4,9 +4,13 @@ Rails.application.routes.draw do
   post 'posts', to: 'posts#create'
 end
 
+コンフリクトA
+んごおおおお
+
 ほぎゃああああ
 
 うぬあああああ
 
 eeee
 ほにゃあああを修正しました
+
